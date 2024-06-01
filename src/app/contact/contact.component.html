@@ -1,16 +1,23 @@
 <!DOCTYPE html>
-<h1>Contactame</h1>
-<form>
+<div class="container-title">
+  <h1>Contáctame</h1>
+</div>
+
+<form class="form-contact">
   <label for="name">Nombre:</label>
-  <input type="text" id="name" name="name" />
+  <input type="text" id="name" name="name" placeholder="Ingresa tu nombre." />
   <label for="email">Email:</label>
-  <input type="email" id="email" name="email" />
+  <input
+    type="email"
+    id="email"
+    name="email"
+    placeholder="Ingresa tu correo."
+  />
   <label for="message">Mensaje:</label>
-  <textarea id="message" name="message"></textarea>
+  <textarea
+    id="message"
+    name="message"
+    placeholder="Ingresa tu mensaje."
+  ></textarea>
   <button type="submit">Enviar</button>
 </form>
-
-<div class="contacts">
-  <button type="button">Instagram</button>
-  <button type="button">Facebook</button>
-</div>
