@@ -9,3 +9,8 @@ Ejecuta 'ng serve' para iniciar un servidor de desarrollo. Navega a http://local
 ## Ayuda adicional
 
 Para obtener más ayuda sobre Angular CLI, usa `ng help` o consulta la página de [Visión general de Angular CLI y referencia de comandos](https://angular.dev/tools/cli).
+
+
+## Figma
+
+https://www.figma.com/design/IxgJgcGNO3Mokb6VqJGInR/my-portfolio?node-id=0-1&t=QpoDmfti0ogTXexu-1
