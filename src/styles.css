@@ -55,12 +55,15 @@ p {
   text-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
 }
 
+.footer p {
+  color: #ffffff;
+}
+
 .form-contact {
-  background-color: #fff;
+  background-color: #99dbff;
   border-radius: 20px;
   box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 20px;
   max-width: 300px;
   max-height: 500px;
   margin-top: 30px;
@@ -91,13 +94,14 @@ p {
 
 .form-contact textarea {
   background-color: #8594e0;
-  display: block; /* Mostrar cada elemento en su propia línea */
-  width: 100%; /* Ancho completo */
-  padding: 10px; /* Espaciado interno */
-  margin-bottom: 15px; /* Margen inferior entre elementos */
-  border: 1px solid #ccc; /* Borde */
-  border-radius: 4px; /* Borde redondeado */
-  box-sizing: border-box; /* Incluir padding y borde en el ancho */
+  display: block;
+  height: 100px;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
 }
 
 button {
